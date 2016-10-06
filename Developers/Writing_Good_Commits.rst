@@ -38,7 +38,7 @@ Example:
     It helps not writing more functions inside
     ``coalib`` for this.
 
-    Fixes https://github.com/coala-analyzer/coala/issues/5861
+    Fixes https://github.com/coala-analyzer/coala/issues/5861.
 
 Shortlog
 ~~~~~~~~
@@ -51,7 +51,7 @@ Example:
 
 -  Maximum of 50 characters.
 -  Should describe the *change* - the action being done in the commit.
--  Should have a tag and and a short description separated by a colon (``:``)
+-  Should have a tag and and a short description separated by a colon (``:``).
 
    -  **Tag**
 
