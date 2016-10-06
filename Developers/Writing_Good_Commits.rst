@@ -38,7 +38,7 @@ Example:
     It helps not writing more functions inside
     ``coalib`` for this.
 
-    Fixes https://github.com/coala-analyzer/coala/issues/5861.
+    Fixes https://github.com/coala-analyzer/coala/issues/5861
 
 Shortlog
 ~~~~~~~~
